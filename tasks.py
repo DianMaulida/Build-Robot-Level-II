@@ -22,7 +22,7 @@ def order_robots_from_RobotSpareBin():
         archieve_receipts()
 
 def open_robot_order_website():
-        # TODO: Implement your function here
+       
 
 def archieve_receipts():
         
